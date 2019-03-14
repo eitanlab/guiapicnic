@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import BusinessList from './components/BusinessList/BusinessList';
 import SearchBar from './components/SearchBar/SearchBar';
-import Yelp from './util/Yelp';
+import Yelp from './util/Trello';
 
 /*const business = {
     imageSrc: 'https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/pizza.jpg',
